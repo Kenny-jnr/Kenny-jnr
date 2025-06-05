@@ -59,9 +59,9 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,html,css" />
-  <img src="https://skillicons.dev/icons?i=aws,docker,react,git,ts" />
-  <img src="https://skillicons.dev/icons?i=azure,mysql,swift,bitbucket,linux" />
+  <div><img src="https://skillicons.dev/icons?i=py,java,cpp,html,css" /></div>
+  <div><img src="https://skillicons.dev/icons?i=aws,docker,react,git,ts" /></div>  
+  <div><img src="https://skillicons.dev/icons?i=azure,mysql,swift,bitbucket,linux" /></div>
 </div>
 
 ###
