@@ -32,33 +32,6 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="12" />
-</div>
-
-<div align="center">
   <div><img src="https://skillicons.dev/icons?i=py,java,cpp,html,css" /></div>
   <div><img src="https://skillicons.dev/icons?i=aws,docker,react,git,ts" /></div>  
   <div><img src="https://skillicons.dev/icons?i=azure,mysql,swift,bitbucket,linux" /></div>
