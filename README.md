@@ -14,7 +14,7 @@
 
 ###
 
-<h1 align="center">Hi, I'm Kenny! 👋</h1>
+<h1 align="left"> Hi, I'm Kenny! 👋</h1>
 
 ###
 
@@ -22,7 +22,26 @@
 
 ###
 
-<h1 align="left">🛠 Language and tools</h1>
+<h1 align="left">📬 Reach Out!</h1>
+
+###
+
+<p align="left">Reach out to me through my [Linkedin](https://www.linkedin.com/in/ekene-umobi/). or my email: umobieke@msu.edu </p>
+
+###
+
+<h1 align="left">📦 Language and Tools</h1>
+
+###
+
+<div align="left">
+  <p><strong>Frontend Development:</strong> React, Typescript, Tailwind, Javascript, Jinja, Swift, HTML, CSS</p>
+  <p><strong>Backend Development:</strong> Flask, Java, Python, C++, Node.js, mySQL, Terraform </p>
+  <p><strong>Others:</strong> AWS, Linux, Bash, Git, JUnit, Maven, Splunk, HTML, CSS</p>
+  
+</div>
+
+<h1 align="left">🧱 Tech Stack</h1>
 
 ###
 
