@@ -59,7 +59,7 @@
 </div>
 
 <div align="center">
-  <[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)>
-  </div>
+  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+</div>
 
 ###
