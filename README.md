@@ -59,7 +59,9 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,react,git,ts" />
+  <img src="https://skillicons.dev/icons?i=azure,mysql,swift,bitbucket,linux" />
 </div>
 
 ###
