@@ -12,7 +12,10 @@
 
 ###
 
-<p align="left">Reach out to me through my https://www.linkedin.com/in/ekene-umobi/. or my email: umobieke@msu.edu </p>
+<p align="left">
+  Reach out to me through my <a href="https://www.linkedin.com/in/ekene-umobi/">LinkedIn</a> or my email: umobieke@msu.edu
+</p>
+
 
 ###
 
